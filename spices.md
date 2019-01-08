@@ -1,6 +1,8 @@
 # My favorite spices
 
 * Lavender
-* Basil
 * Thyme
 * Cumin
+* Coriander
+* Cloves
+* Basil
